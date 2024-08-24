@@ -72,7 +72,7 @@ function App() {
 
   return (
     <>
-      <Modal open={modalIsOpen} onClose={handleRemovePlace}>
+      <Modal open={modalIsOpen} onClose={handleStopRemovePlace}>
         <DeleteConfirmation
           onCancel={handleStopRemovePlace}
           onConfirm={handleRemovePlace}
@@ -97,7 +97,7 @@ function App() {
         <Places
           title="Available Places"
           places={availablePlaces}
-          fallbackText="Sorting places by distance according to your current location..."
+          fallbackText={'Sorting places by distance according to your current location...'}
           onSelectPlace={handleSelectPlace}
         />
       </main>
