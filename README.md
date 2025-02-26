@@ -1,6 +1,6 @@
 # React-learning
 
-This repo contains all the **code and projects** I have worked on while **learning React** from the 
+This repo contains all the **code and projects** I have worked on while **learning React** from the </br>
 [**React - The Complete Guide**](https://www.udemy.com/share/101Way3@atl1UCLWMAfRpaMbS3nlWdXBLFfUsYCvhv2lJDAcafREkmCpRA8J-KIOhPRdUKD0gg==/) Udemy course.
 
 ## Projects included
